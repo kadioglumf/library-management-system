@@ -7,6 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LibraryManagementSystemApplication {
 
 	public static void main(String[] args) {
+		r
+				werwerwe
+				rewrwer
+
+						wrwer
+						werwerwew
 		SpringApplication.run(LibraryManagementSystemApplication.class, args);
 	}
 
